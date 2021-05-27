@@ -11,7 +11,7 @@ zakończenie zachowania.
 Dotyczy zarówno prostych mechanizmów zachowań
 prostych, jak i złożonych, mechanizmów
 wewnętrznych i zewnętrznych, afektywnych i
-poznawczych.
+poznawczych. Nasza aplikacja ma wspomóc kobiety w realizacji ich zamierzonych celów oraz podnoszenia poziomu pewności siebie.
 
 ## Motshe App 
 
