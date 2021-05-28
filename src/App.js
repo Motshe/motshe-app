@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+// import motshe from './public/assets/motshe.png';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import './App.scss';
+import NavigationBar from './components/NavigationBar';
+import ErrorBoundary from './components/ErrorBoundary';
+import NotFound from './components/NotFound';
+import UserContextProvider from './context/User';
+import LandingPage from './domain/LandingPage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <UserContextProvider>
+      <Router>
+        <NavigationBar />
+        <ErrorBoundary>
+          <div className="App">
+            <Switch>
+              <Route exact path="/" component={LandingPage} />
+              <Route component={NotFound} />
+            </Switch>
+          </div>
+        </ErrorBoundary>
+        {/* <Footer /> */}
+      </Router>
+    </UserContextProvider>
   );
 }
 
