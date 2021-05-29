@@ -9,7 +9,7 @@ function NavigationBar() {
       <Container>
         <Navbar.Brand href="#home">
           <Image src={motsheLogo} className="logo" />
-          Motshe!
+          {/* Motshe! */}
         </Navbar.Brand>
         <Nav className="mr-auto">
           <Nav.Link href="#mamCel">Mam Cel</Nav.Link>

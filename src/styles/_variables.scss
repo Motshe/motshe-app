@@ -1,6 +1,11 @@
+@font-face {
+    font-family: 'Val';
+    src: local('Val'), url('../fonts/VAL.otf') format('opentype');
+  }
+  
 // Fonts
 $font-primary: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+$font-motshe: 'Val', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 // rwd breakpoints
 $breakpoint-xs-max: 575px;
@@ -30,6 +35,7 @@ $border-radius: 16px;
 
 // App Colors
 
+$color-main: #ff5757;
 $pink: #ffadad;
 $orange: #ffd6a5;
 $yellow: #fdffb6;
@@ -41,5 +47,5 @@ $lightPink: #ffc6ff;
 
 // Gradient background
 
-$linear-gradient-full: linear-gradient(75deg, $pink, $orange,$yellow,$lightGreen,$juicyGreen, $blue, $purple,$lightPink);
+$linear-gradient-full: linear-gradient(90deg, $color-main 1% , $pink, $orange,$yellow,$lightGreen,$juicyGreen, $blue, $purple,$lightPink);
 

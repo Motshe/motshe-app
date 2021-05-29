@@ -12,6 +12,21 @@
   }
 }
 
-.basicGradient {
+.gradient__text {
   background-image: $linear-gradient-full;
+  background-size: 100%;
+  background-repeat: repeat;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
+
+.motshe {
+  &-font {
+  font-family: $font-motshe;
+  }
+  &-reverse {
+    transform: scaleX(-1);
+    display: inline-block;
+  }
+}
+
