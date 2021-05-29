@@ -5,6 +5,7 @@ import NavigationBar from './components/NavigationBar';
 import ErrorBoundary from './components/ErrorBoundary';
 import NotFound from './components/NotFound';
 import LandingPage from './domain/LandingPage';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
           </Switch>
         </div>
       </ErrorBoundary>
-      {/* <Footer /> */}
+      <Footer />
     </Router>
   );
 }

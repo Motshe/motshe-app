@@ -40,5 +40,20 @@
     transform: scaleX(-1);
     display: inline-block;
   }
+  &-background {
+    background-color: $color-main !important;
+  }
+  &-border {
+    border: 1px solid $color-main !important;
+  }
+  &-button {
+    background-color: $color-main !important;
+    border: 1px solid $color-main !important;
+    color: #fff !important;
+    &--secondary {
+      background-color: transparent !important;
+      border: 1px solid $color-main !important;
+    }
+  }
 }
 
