@@ -5,22 +5,23 @@ function Hero() {
     <div className="container col-xl-10 col-xxl-8 px-4 py-5">
       <div className="row align-items-center g-lg-5 py-5">
         <div className="col-lg-7 text-center text-lg-start">
-          <h1 className="display-1 fw-bold lh-1 mb-3 gradient__text">
-            <span className="motshe-font motshe-reverse">M</span>
-            <span className="motshe-font">O</span>
-            <span className="motshe-font">T</span>
-            <span className="motshe-font">S</span>
-            <span className="motshe-font">H</span>
-            <span className="motshe-font">E</span>
-            <span className="motshe-font">!</span>
+          <h1 className="display-1 fw-bold lh-1 mb-3">
+            <span className="motshe-font motshe-reverse text__main-color">
+              M
+            </span>
+            <span className="motshe-font text__main-color">O</span>
+            <span className="motshe-font text__main-color">T</span>
+            <span className="motshe-font text__main-color">S</span>
+            <span className="motshe-font text__main-color">H</span>
+            <span className="motshe-font text__main-color">E</span>
+            <span className="motshe-font text__main-color">!</span>
           </h1>
-          <h3 className="display-6 fw-bold lh-1 mb-3">
+          <h3 className="display-7 fw-bold lh-1 mb-3 ">
             JESTEM. CHCĘ. POTRAFIĘ.
           </h3>
           <p className="col-lg-10 fs-4">
-            Masz cel, ale nie wiesz jak go osiągnąć? Nie wierzysz we własne
-            siły? Chcesz coś zmienić, ale nie jesteś pewna co? Obawiasz się, że
-            ci się nie uda?
+            Masz cel, ale nie wiesz jak go osiągnąć? Chcesz coś zmienić, ale nie
+            jesteś pewna co? Chodź do nas, chodź do motshe!
           </p>
         </div>
         <div className="col-md-10 mx-auto col-lg-5">

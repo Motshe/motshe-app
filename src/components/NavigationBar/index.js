@@ -1,15 +1,15 @@
 import React from 'react';
 import { Container, Nav, Navbar, Button, Image } from 'react-bootstrap';
 import './style.scss';
-import motsheLogo from './m.jpg';
 
 function NavigationBar() {
   return (
     <Navbar className="bg-white">
       <Container>
         <Navbar.Brand href="#home">
-          <Image src={motsheLogo} className="logo" />
-          {/* Motshe! */}
+          <span className="motshe-font motshe-reverse text__lg text__main-color">
+            M
+          </span>
         </Navbar.Brand>
         <Nav className="mr-auto">
           <Nav.Link href="#mamCel">Mam Cel</Nav.Link>

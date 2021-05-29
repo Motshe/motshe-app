@@ -20,7 +20,11 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Nie zapomnisz</h4>
-            <p>Potrzebujesz systematyczności? Przypomnień? Pomożemy Ci!</p>
+            <p>
+              Potrzebujesz systematyczności? Przypomnień? Pomożemy Ci! Możesz
+              zdecydować sama lub podpowiemy ci jak często powinnaś monitorować
+              swoje postępy by osiągnąć zamierzony cel.
+            </p>
           </div>
         </div>
         <div className="col d-flex align-items-start">
@@ -40,7 +44,11 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Dasz radę</h4>
-            <p>Potrafisz! </p>
+            <p>
+              Potrafisz! Jeżeli jeszcze nie dzisiaj, to może jutro, pojutrze lub
+              za miesiąc! Będziemy Cię wspierać, bez względu na to czy przesz
+              niestrudzenie do celu czy musisz przedefiniować swoją ścieżkę.
+            </p>
           </div>
         </div>
         <div className="col d-flex align-items-start">
@@ -59,7 +67,11 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Sprawdzisz</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <p>
+              Czujesz spadek formy? Sprawdź ile już osiągnęłaś! Zobacz jak wiele
+              udało ci się już zrobić! Z &quot;motshe!&quot; możesz monitorować
+              swoje postępy. Pamiętamy jaka jesteś niezwykła!
+            </p>
           </div>
         </div>
 
@@ -77,7 +89,11 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Zaplanujesz</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <p>
+              Twoje wielkie marzenie wymaga czasu i konkretnego rozplanowania?
+              Już wiesz jak ułożyć kolejne kroki czy potrzebujesz pomocy? Motshe
+              Kalendarz i dzienniczek pomoże ci w ułożeniu planu na sukces.
+            </p>
           </div>
         </div>
         <div className="col d-flex align-items-start">
@@ -93,7 +109,11 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Rośniesz</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <p>
+              Rozwijasz się, uczysz, otwierasz. Poznajesz siebie i swoje
+              możliwości. Świadomie budujesz swoją pewność siebie wraz ze
+              wsparciem naszej motshe społeczności i inspirujących kobiet.
+            </p>
           </div>
         </div>
         <div className="col d-flex align-items-start">
@@ -110,7 +130,11 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Zdobywasz</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <p>
+              Tak wiemy, że wirtualne marchewki na zachętę są tylko wirtualne,
+              ale przecież też mogą chrupać? Nie bijemy kijem, a w naszych
+              wygranych marchewkach zdecydowanie jest metoda!
+            </p>
           </div>
         </div>
         <div className="col d-flex align-items-start">
@@ -130,7 +154,11 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Przyspieszasz</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <p>
+              Im więcej o sobie wiesz, tym lepiej się rozumiesz, tym szybciej
+              się rozwijasz. Tym szybciej i łatwiej zaplanujesz drugi, trzeci i
+              dziesiąty cel. Nie zatrzymuj się!
+            </p>
           </div>
         </div>
         <div className="col d-flex align-items-start">
@@ -146,7 +174,12 @@ function Features() {
           </svg>
           <div>
             <h4 className="fw-bold mb-0">Łączysz</h4>
-            <p>Paragraph of text beneath the heading to explain the heading.</p>
+            <p>
+              Próbujesz zdobyć nowy zawód, dostać awans, coś zmienić? Nie jesteś
+              sama! W motshe jesteśmy częścią całości, wymieniamy się
+              doświadczeniami i wspomagamy w obraniu, utrzymaniu i osiąganiu
+              celu.
+            </p>
           </div>
         </div>
       </div>
