@@ -1,20 +1,22 @@
 import React from 'react';
-import { Container, Nav, Navbar, Button } from 'react-bootstrap';
+import { Container, Nav, Navbar, Button, Image } from 'react-bootstrap';
 import './style.scss';
+import motsheLogo from './m.jpg';
 
 function NavigationBar() {
   return (
-    <Navbar bg="light" variant="light">
+    <Navbar className="bg-white">
       <Container>
-        <Navbar.Brand href="#home">Motshe!</Navbar.Brand>
+        <Navbar.Brand href="#home">
+          <Image src={motsheLogo} className="logo" />
+          Motshe!
+        </Navbar.Brand>
         <Nav className="mr-auto">
-          <Nav.Link href="#community">Społeczność</Nav.Link>
-          <Nav.Link href="#goalSearch">Wyszukiwarka</Nav.Link>
-          <Nav.Link href="#mentors">Mentorki</Nav.Link>
+          <Nav.Link href="#mamCel">Mam Cel</Nav.Link>
+          <Nav.Link href="#mamMotywacje">Mam Motywację</Nav.Link>
+          <Nav.Link href="#mentorki">Mentorki</Nav.Link>
         </Nav>
-        <Button className="leftAuto" inline type="submit">
-          Login
-        </Button>
+        <Button className="leftAuto button btn-light">Login</Button>
       </Container>
     </Navbar>
   );

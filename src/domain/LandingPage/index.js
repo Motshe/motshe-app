@@ -1,11 +1,13 @@
 import './style.scss';
 import { Container, Image } from 'react-bootstrap';
-import mothshe from './motshe.jpg';
+import Hero from './Hero';
+import Features from './Features';
 
 function Landing() {
   return (
     <Container className="landing">
-      <Image src={mothshe} fluid />
+      <Hero />
+      <Features />
     </Container>
   );
 }
