@@ -22,12 +22,12 @@ aplikacja oparta na trzech wartościach:
 
 ## Kim jesteśmy?
 
-:woman_technologist: Ola P
+:woman_technologist: Lider - Ola P https://www.linkedin.com/in/polowska/
 
-:woman_technologist: Weronika https://github.com/vieraboschkova
+:woman_technologist: Frontend - Weronika https://github.com/vieraboschkova
 
-:woman_technologist: Ola B
+:woman_technologist: UX - Ola B 
 
-:woman_technologist: Sabina R
+:woman_technologist: Business Analyst - Sabina R https://www.linkedin.com/in/sabinakwapisiewicz/
 
-:woman_technologist: Dominika W
+:woman_technologist: Business Analyst - Dominika W https://www.linkedin.com/in/dominika-werdecka-392157a3/
