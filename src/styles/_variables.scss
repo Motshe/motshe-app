@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'Val';
+    src: local('Val'), url('../fonts/VAL.otf') format('opentype');
+  }
+  
+// Fonts
+$font-primary: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+$font-motshe: 'Val', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+// rwd breakpoints
+$breakpoint-xs-max: 575px;
+$breakpoint-sm-max: 767px;
+$breakpoint-md-max: 991px;
+$breakpoint-xl-max: 1366px;
+$breakpoint-xxl-max: 1600px;
+
+// Colors
+$color-primary: white;
+$color-secondary: yellow;
+
+// Text Color
+$text-color-primary: rgb(28, 28, 28);
+$text-color-secondary: #ffffff;
+
+// Background Color
+$background-color-primary: #f1f1f1;
+$background-color-secondary: #333;
+
+// Fonts sizes
+$font-size-primary: 48px;
+$font-size-secondary: 32px;
+
+// Border
+$border-radius: 16px;
+
+// App Colors
+
+$color-main: #ff5757;
+$pink: #ffadad;
+$orange: #ffd6a5;
+$yellow: #fdffb6;
+$lightGreen: #caffbf;
+$juicyGreen: #9bf6ff;
+$blue: #a0c4ff;
+$purple: #bdb2ff;
+$lightPink: #ffc6ff;
+
+// Gradient background
+
+$linear-gradient-full: linear-gradient(90deg, $pink, $orange,$yellow,$lightGreen,$juicyGreen, $blue, $purple,$lightPink);
+

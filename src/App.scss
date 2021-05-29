@@ -1,0 +1,59 @@
+@import './styles/variables';
+
+.button {
+  // text-transform: uppercase;
+  font-weight: 700;
+  border: 0 !important;
+  background-color: $juicyGreen;
+  color: $text-color-primary!important;
+  &--red {
+    background-color: #ff5757 !important;
+    color: $text-color-secondary!important;
+  }
+}
+
+.text {
+  &__gradient {
+    background-image: $linear-gradient-full;
+    background-size: 100%;
+    background-repeat: repeat;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  &__main-color {
+    color: $color-main !important;
+  }
+  &__lg {
+    font-size: $font-size-primary;
+  }
+  &__md {
+    font-size: $font-size-secondary;
+  }
+}
+
+.motshe {
+  &-font {
+  font-family: $font-motshe;
+  letter-spacing: 2px;
+  }
+  &-reverse {
+    transform: scaleX(-1);
+    display: inline-block;
+  }
+  &-background {
+    background-color: $color-main !important;
+  }
+  &-border {
+    border: 1px solid $color-main !important;
+  }
+  &-button {
+    background-color: $color-main !important;
+    border: 1px solid $color-main !important;
+    color: #fff !important;
+    &--secondary {
+      background-color: transparent !important;
+      border: 1px solid $color-main !important;
+    }
+  }
+}
+
