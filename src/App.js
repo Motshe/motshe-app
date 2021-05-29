@@ -1,26 +1,27 @@
 // import motshe from './public/assets/motshe.png';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.scss';
 import NavigationBar from './components/NavigationBar';
 import ErrorBoundary from './components/ErrorBoundary';
-import NotFound from './components/NotFound';
 import LandingPage from './domain/LandingPage';
 import Footer from './components/Footer';
 
 function App() {
   return (
-    <Router>
+    // <Router>
+    <div>
       <NavigationBar />
       <ErrorBoundary>
-        <div className="App">
+        {/* <div className="App">
           <Switch>
             <Route exact path="/" component={LandingPage} />
             <Route component={NotFound} />
           </Switch>
-        </div>
+        </div> */}
+        <LandingPage />
       </ErrorBoundary>
       <Footer />
-    </Router>
+      {/* </ Router> */}
+    </div>
   );
 }
 
