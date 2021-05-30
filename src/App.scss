@@ -4,7 +4,6 @@
   // text-transform: uppercase;
   font-weight: 700;
   border: 0 !important;
-  background-color: $juicyGreen;
   color: $text-color-primary!important;
   &--red {
     background-color: #ff5757 !important;
@@ -28,6 +27,30 @@
   }
   &__md {
     font-size: $font-size-secondary;
+  }
+  &__pink {
+    color: $pink !important;
+  }
+  &__orange {
+    color: $orange !important;
+  }
+  &__yellow {
+    color: $yellow !important;
+  }
+  &__light-green {
+    color: $lightGreen!important;
+  }
+  &__juicy-green {
+    color: $juicyGreen !important;
+  }
+  &__blue {
+    color: $blue !important;
+  }
+  &__purple {
+    color: $purple !important;
+  }
+  &__light-pink {
+    color: $lightPink !important;
   }
 }
 

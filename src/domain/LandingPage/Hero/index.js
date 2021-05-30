@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/label-has-associated-control */
 import React from 'react';
 
 function Hero() {
@@ -6,7 +7,7 @@ function Hero() {
       <div className="row align-items-center g-lg-5 py-5">
         <div className="col-lg-7 text-center text-lg-start">
           <h1 className="display-1 fw-bold lh-1 mb-3">
-            <span className="motshe-font motshe-reverse text__main-color">
+            <span className="motshe-font motshe-reverse text__main-color tex__pink">
               M
             </span>
             <span className="motshe-font text__main-color">O</span>
@@ -25,8 +26,9 @@ function Hero() {
           </p>
         </div>
         <div className="col-md-10 mx-auto col-lg-5">
-          <form className="p-4 p-md-5 border rounded-3 bg-light">
+          <form className="p-3 p-md-5 border rounded-3 bg-light">
             <div className="form-floating mb-3">
+              Email
               <input
                 type="email"
                 className="form-control"
@@ -35,6 +37,7 @@ function Hero() {
               />
             </div>
             <div className="form-floating mb-3">
+              Password
               <input
                 type="password"
                 className="form-control"
