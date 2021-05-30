@@ -1,9 +1,10 @@
-# Motshe! 
+# 🥕 Motshe! 
 
 Stworzona podczas Hackathonu organizowanego przez Netflix i Geek Girls Carrots - aplikacja oraz społeczność motywacyjna dla kobiet
-https://hack4girlz.gocarrots.org/
 
-## Motywacja
+🥕 https://hack4girlz.gocarrots.org/🥕 
+
+## 🥕 Motywacja
 Termin “motywacja” stosowany jest w psychologii
 do opisu wszelkich mechanizmów odpowiedzialnych
 za uruchomienie, ukierunkowanie, podtrzymanie i
@@ -13,14 +14,14 @@ prostych, jak i złożonych, mechanizmów
 wewnętrznych i zewnętrznych, afektywnych i
 poznawczych. Nasza aplikacja ma wspomóc kobiety w realizacji ich zamierzonych celów oraz podnoszenia poziomu pewności siebie.
 
-## Motshe App 
+## 🥕 Motshe App 
 
-aplikacja oparta na trzech wartościach:
+Aplikacja oparta na trzech wartościach:
 - JESTEM
 - CHCĘ
 - POTRAFIĘ
 
-## Kim jesteśmy?
+## 🥕 Kim jesteśmy?
 
 :woman_technologist: Lider - Ola P https://www.linkedin.com/in/polowska/
 
