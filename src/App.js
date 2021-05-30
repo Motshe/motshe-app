@@ -1,4 +1,3 @@
-// import motshe from './public/assets/motshe.png';
 import './App.scss';
 import NavigationBar from './components/NavigationBar';
 import ErrorBoundary from './components/ErrorBoundary';

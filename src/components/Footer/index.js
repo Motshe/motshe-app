@@ -34,6 +34,7 @@ function Footer() {
           <a href="https://github.com/Motshe/motshe-app">githuba</a>, tam w
           Readme poczytasz więcej.
         </p>
+        <p>© Motshe. Wszystkie prawa zastrzeżone</p>
       </div>
     </footer>
   );
