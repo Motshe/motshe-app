@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/motshe-app/static/css/main.6d3a8314.chunk.css",
-    "main.js": "/motshe-app/static/js/main.b326f591.chunk.js",
-    "main.js.map": "/motshe-app/static/js/main.b326f591.chunk.js.map",
+    "main.css": "/motshe-app/static/css/main.8dac9a37.chunk.css",
+    "main.js": "/motshe-app/static/js/main.390b349a.chunk.js",
+    "main.js.map": "/motshe-app/static/js/main.390b349a.chunk.js.map",
     "runtime-main.js": "/motshe-app/static/js/runtime-main.7da82146.js",
     "runtime-main.js.map": "/motshe-app/static/js/runtime-main.7da82146.js.map",
     "static/css/2.61b4cb56.chunk.css": "/motshe-app/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.1210e894.chunk.js": "/motshe-app/static/js/2.1210e894.chunk.js",
-    "static/js/2.1210e894.chunk.js.map": "/motshe-app/static/js/2.1210e894.chunk.js.map",
+    "static/js/2.2c63aac2.chunk.js": "/motshe-app/static/js/2.2c63aac2.chunk.js",
+    "static/js/2.2c63aac2.chunk.js.map": "/motshe-app/static/js/2.2c63aac2.chunk.js.map",
     "index.html": "/motshe-app/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/motshe-app/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.6d3a8314.chunk.css.map": "/motshe-app/static/css/main.6d3a8314.chunk.css.map",
-    "static/js/2.1210e894.chunk.js.LICENSE.txt": "/motshe-app/static/js/2.1210e894.chunk.js.LICENSE.txt",
+    "static/css/main.8dac9a37.chunk.css.map": "/motshe-app/static/css/main.8dac9a37.chunk.css.map",
+    "static/js/2.2c63aac2.chunk.js.LICENSE.txt": "/motshe-app/static/js/2.2c63aac2.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/motshe-app/static/media/VAL.98c88cbc.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.7da82146.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.1210e894.chunk.js",
-    "static/css/main.6d3a8314.chunk.css",
-    "static/js/main.b326f591.chunk.js"
+    "static/js/2.2c63aac2.chunk.js",
+    "static/css/main.8dac9a37.chunk.css",
+    "static/js/main.390b349a.chunk.js"
   ]
 }
